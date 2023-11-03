@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roho11
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python and SQL
+- 🌱 Growing with Python and SQL
 - 📫 How to reach me: kosirok@gmail.com
 
 <!---
