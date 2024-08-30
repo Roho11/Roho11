@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roho11
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Web Scraping and other 
 - 🌱 Growing with Python and SQL
 - 📫 How to reach me: kosirok@gmail.com
 
