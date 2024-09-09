@@ -2,7 +2,7 @@
 - 👀 I’m passionate about Data Analytics, Web Scraping, and working with data.
 - 💼 I currently work with SQL in my job.
 - 🌱 In my spare time, I’m learning Python and expanding my skills in data-related fields.
-- 🎯 My goal is to transition into a role in Data Engineering.
+- 🎯 My goal is to transition into a role in Data Engineering or similiar.
 - 📫 Feel free to reach out: kosirok@gmail.com
 
 <!---
